@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "900047651754",
+    "project_id": "smash-39e45",
+    "storage_bucket": "smash-39e45.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:900047651754:android:5dcdc67422a265316d61d3",
+        "android_client_info": {
+          "package_name": "com.smashlogistics.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "900047651754-s9h7qg5dqhpgq1s1gqnbv42s7gos0hlm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCl7nS7v4_ReFChG3pT77TCUAof3shuSfQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "900047651754-s9h7qg5dqhpgq1s1gqnbv42s7gos0hlm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
